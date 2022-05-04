@@ -4,7 +4,7 @@ import * as S from "./Block.style";
 
 const palete = {
   primary: {
-    background: "#1223e333",
+    background: "#0b178033",
     color: "#fffff",
   },
   success: {
